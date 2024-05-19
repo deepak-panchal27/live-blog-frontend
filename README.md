@@ -30,7 +30,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/deepak-panchal27/editorial-interface.git
+    git clone https://github.com/deepak-panchal27/live-blog-frontend.git
     ```
 
 2. Navigate to the project directory:
